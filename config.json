@@ -1,0 +1,27 @@
+{
+  "request_frequency": 1,
+  "request_timeout": 3,
+  "request_retries": 3,
+
+  "action_ctrls": {
+    "pause": "(0, 106)",
+    "start": "(0, 107)",
+    "volume": "(0, 82)",
+    "repeat": "(0, 83)",
+    "track": "(0, 114)",
+    "shuffle_on": "(0, 105)",
+    "shuffle_off": "(0, 108)",
+    "time": "(0, 112)",
+    "selector": "(0, 85)"
+  },
+  "track_btns": [
+    "(9, 36)",
+    "(9, 37)",
+    "(9, 38)",
+    "(9, 39)",
+    "(9, 40)",
+    "(9, 41)",
+    "(9, 42)",
+    "(9, 43)"
+  ]
+}
